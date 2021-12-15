@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Khnykovaea\Downloads\OSISP_4-main\OSISP_4-main\Osisp4\main.cpp(71,24): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  QueueHandler.cpp
+  SortTask.cpp
+  TaskQueue.cpp
+  Создание кода...
+  Osisp4.vcxproj -> C:\Users\Khnykovaea\Downloads\OSISP_4-main\OSISP_4-main\x64\Debug\Osisp4.exe
